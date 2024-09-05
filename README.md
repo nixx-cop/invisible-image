@@ -1,7 +1,7 @@
 # invisible-image
 
 
-#installation proces for kali linux-->
+#installation process for kali linux-->
 
 
 ----> sudo apt update && sudo apt upgrade -y
